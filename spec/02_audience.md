@@ -1,16 +1,47 @@
 # Audience
 
-## Who they are
-1. **Busy and mentally loaded.** Modern people — often but not only men, roughly 30s–40s — carrying mental load from work and life.
-2. **Willing but stuck at the door.** They know walking would help and genuinely want the head-clearing, but at the end of a draining day can't manufacture the reason to put their shoes on.
-3. **Fitness level is not a filter.** The barrier is motivation and meaning, not fitness — unfit, overweight, or out-of-shape people are squarely included. Mungo meets anyone who walks, at any pace, and never measures or judges the body.
-4. **Repelled by fitness framing.** Steps, streaks, zones, "crushing it," and instructor energy actively push them away.
-5. **Pulled by fun and company.** What gets them out is curiosity and companionship — a walk that leaves them clearer than it found them.
-6. **Want to process, not escape.** They quietly want to work through the day, not silence it: "same problem, new perspective" counts as a win.
+The audience is not defined by age, gender, or fitness level first. It is defined by a state: modern pressure has made them mentally noisy, physically under-moved, and resistant to being optimized.
+
+## Core audience
+
+People who know a walk would help, but still do not start.
+
+They are often busy adults with work, family, screens, messages, obligations, and unfinished loops in their head. A likely early audience may skew toward men in their 30s-40s, but that is not the product boundary. The real boundary is the need: relief from abstract pressure through simple movement and grounded company.
+
+## What they feel
+
+- **Mentally loaded.** Their head is full before the walk begins: emails, decisions, comparisons, conversations, tasks, worries.
+- **Physically stagnant.** The body has been sitting, bracing, scrolling, clenching, or waiting too long.
+- **Willing but stuck.** They believe walking helps, but the couch, phone, weather, or inertia wins at the exact moment that matters.
+- **Tired of being improved.** Fitness, productivity, and wellness language make them feel measured or managed.
+- **Quietly lonely.** They may have people in their life, but still want someone beside them for this small stretch of evening.
+- **Still reachable by warmth.** Humor, character, curiosity, and a single good line can move them more than another reminder.
+
+## Why they respond to Og
+
+- **Og lowers the shame of starting.** A fictional companion makes the walk feel less like self-improvement and more like joining someone outside.
+- **Og makes pressure less sacred.** He can name email, perfectionism, and phones, then translate them into older human needs.
+- **Og gives company without demand.** He does not need the user to perform, confess, track, meditate, or become a better version of themselves.
+- **Og turns the walk into a small story.** Not a game loop, not a workout, not a therapy session. A walk with a character who has a point of view.
+- **Og leaves room.** Silence, weather, footsteps, and the user's own thoughts remain part of the experience.
+
+## Included
+
+- Any fitness level, body type, pace, or starting point, as long as the person can safely take a walk.
+- People who dislike gyms, trackers, streaks, instructor energy, and optimization culture.
+- People who are skeptical of meditation but still want their head to clear.
+- People in therapy or using other support, as long as Og remains companion, not care provider.
+- People who want to process the day through movement, not escape it completely.
 
 ## Who they are not
-1. **Not athletes or optimizers.** Not fitness enthusiasts looking to train, track, or improve performance.
-2. **Not seeking a training program.** Not after a structured plan or couch-to-5K ramp — but this is about product shape, not fitness; a sedentary person who just wants a companion belongs here.
-3. **Not meditators.** Not looking to "empty the mind" — this processes the day rather than silencing it.
-4. **Not tool-seekers.** Not after a tracker or utility — they want a *someone* to walk with.
-5. **Not gamers.** Not chasing points, levels, or achievement loops disconnected from real life.
+
+- **Not athletes seeking training.** No performance plans, pace goals, zones, or progression logic.
+- **Not optimizers seeking a system.** No hacks, protocols, dashboards, or quantified self loop.
+- **Not gamers seeking progression.** No points, loot, levels, or achievement loops as the main reason to walk.
+- **Not people seeking clinical care from the product.** Og can keep company, but he is not crisis support, diagnosis, treatment, or a replacement for people.
+- **Not users who want pure utility.** If they only want a tracker, map, timer, or step counter, the character will feel unnecessary.
+- **Not users who reject fiction entirely.** The product needs some willingness to walk with a made-up someone.
+
+## Audience shorthand
+
+For people who are tired of being optimized, but still need help leaving the room.
