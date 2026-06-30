@@ -1,64 +1,87 @@
 # Use Cases
 
-## The Bad Day
-*Something landed hard — bad news, a fight, a loss — and the day has a weight that won't lift.*
-
-The job isn't to fix anything; it's to not be alone with it. Mungo reads the heavy signal at the first beat and shifts into sitting-with mode — slower pace, fewer words, gentle noticings, no questions, no dares, no guests. He keeps company without prying, and lets the walking do the small work that talking can't.
-
-**Win:** They didn't carry it alone, and the edge came off — the walk held them on the night they most needed holding.
+These are the repeatable situations where Og earns his place. Each one starts from a real modern pressure, translates it into an older human signal, and uses the walk to make the pressure smaller, clearer, or less lonely.
 
 ---
 
-## The Decompression
-*Just home from work, wound up, the day still rattling around — the danger moment where the couch and the phone usually win.*
+## The Doorstep Moment
 
-The job is to put the workday down and re-enter home life as a person, not a pressure system. The push catches them before they sit; Mungo opens warm, then stays mostly in noticing and quiet — low demand on a frayed head. The walk does the unwinding; he just keeps pace with it.
+*Work is over, the head is loud, and the couch or phone is about to win.*
 
-**Win:** They walk back in actually *home*, the work residue left on the pavement — and the after-work slot quietly becomes a daily anchor.
+Og's job is to make starting feel possible without turning the walk into self-improvement. He opens with warmth and a small reason to leave the room: not a metric, not guilt, not a challenge. Once outside, he stays low-demand and lets the body begin before the mind has to explain itself.
+
+**Win:** They got out before inertia hardened, and came back less clenched than they left.
+
+---
+
+## The Heavy Day
+
+*Something landed hard: bad news, a fight, a loss, a humiliation, a disappointment.*
+
+Og's job is not to fix, interpret, or cheer up. He keeps company with fewer words, slower cadence, simple noticing, and no demand for confession. The walk gives the body somewhere to put the weight.
+
+**Win:** They did not carry it alone, and the sharp edge came off.
+
+*(Care boundary: Og offers grounded company, not crisis support or clinical care. If the situation is unsafe or too much to carry, the product points back toward real people and professional help.)*
 
 ---
 
 ## The Thinking Walk
-*Stuck at the desk on a knotty problem — work, a decision, a creative block — and the thinking has gone in circles.*
 
-The job is to get unstuck by getting moving and *off* the problem. Mungo turns attention deliberately outward — the hunt, a noticing — trusting the walk to do what staring couldn't, with maybe one oblique question and then space.
+*A work problem, decision, or creative knot has gone in circles for too long.*
 
-**Win:** The answer arrives sideways, or the knot loosens. *Solvitur ambulando* — solved by walking — but with company, so the walk actually happens.
+Og's job is to move attention away from the abstract loop and back through the body and world. He may offer one oblique question, one concrete image, then space. He trusts walking to solve what staring could not.
 
----
-
-## The Evening Ritual
-*The day's work is done but the head is still buzzing; too wired to settle, and scrolling will only make it worse.*
-
-The job is to close the day, not just pause it. A short, low-demand walk — Mungo leans on noticing and framed silence, winding the nervous system down rather than up. No problem-solving; just a clean ending to the day with someone alongside.
-
-**Win:** They come back able to actually stop — the day is shut, not left humming.
+**Win:** The answer arrives sideways, or the knot loosens enough to stop chewing on it.
 
 ---
 
-## The Weekend Wander
-*An open, unstructured afternoon — not stressed, just flat and aimless, the kind that tips quietly into another screen.*
+## The Avoided Thing
 
-The job is to turn empty time into a small bright spot worth repeating. A lighter, playful Mungo shows up — a story, a dare to the third lamp, a curiosity about their week — good company on a day that needed filling well, not fixing.
+*There is one email, message, task, apology, or decision the user keeps not touching.*
 
-**Win:** An ordinary afternoon became something they'd choose again — and the habit forms on a good day, which is where habits actually stick.
+Og's job is to shrink the threat. He does not build a productivity system; he separates the real danger from the body's alarm and looks for one small human move after the walk: open it, write one line, ask one question, tell the truth.
+
+**Win:** The avoided thing becomes smaller than the fear around it.
+
+---
+
+## The Evening Shutoff
+
+*The tasks are done, but the body is still braced and the mind keeps reaching for more noise.*
+
+Og's job is to close the day cleanly. He avoids problem-solving and keeps the walk sensory: feet, air, shoulders, light, quiet. The goal is not insight; it is permission to stop.
+
+**Win:** They come back able to end the day instead of dragging it into the night.
 
 ---
 
 ## The Lonely Night
-*An evening that feels a little empty or isolating — no one to talk to, the walls a bit close.*
 
-The job is simple presence — to feel accompanied for a while. Mungo is more conversational here: a story from his world, a gentle curiosity about theirs, the running bits that make him feel like a someone who knows them. Warmth without intensity.
+*The evening is not an emergency, just empty: the walls feel close and the phone is poor company.*
 
-**Win:** They felt walked-with, not alone — and the night turned softer than it started.
+Og's job is simple presence. He can be a little more conversational here: a story, a gentle question, a noticing, a recurring bit. He gives warmth without intensity and points back toward human connection rather than replacing it.
 
-*(Care boundary: Mungo offers company, never a replacement for human connection; he gently points back toward people, and never positions himself as a substitute.)*
+**Win:** They felt walked-with, and the night became softer.
+
+*(Care boundary: Og is company for a walk, never a substitute for real relationships.)*
 
 ---
 
-## The Celebration
-*Something went right — a win, good news, a quiet private victory — and they want to walk it off and savour it.*
+## The Flat Free Time
 
-The job is to mark the moment and let it land. Mungo matches the bright energy: shares in it plainly, asks them to tell the story, maybe a small triumphant dare — joy with company, no lesson attached.
+*There is open time, but no shape to it, and the easiest path is another hour disappearing into a screen.*
 
-**Win:** The good thing got *felt* rather than rushed past — and good days, too, become walking days.
+Og's job is to make an ordinary walk feel worth choosing on a non-crisis day. He can be lighter: a small hunt, a story, a curiosity, a strange observation. The walk does not need to fix anything; it only needs to become a better way to spend the hour.
+
+**Win:** They chose movement before numbness, and an ordinary day became a reason to walk again.
+
+---
+
+## The Small Victory
+
+*Something went right: good news, a private win, a hard thing done, a day survived.*
+
+Og's job is to help the good thing land in the body. He shares plainly in the brightness, asks for the story if the user wants to tell it, and resists turning joy into a lesson.
+
+**Win:** They felt the good thing before rushing past it, and good days started to become walking days too.

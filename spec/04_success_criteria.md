@@ -2,18 +2,30 @@
 
 ## What success looks like
 
-1. **They come back on their own.** People start walks unprompted — curiosity beats end-of-day inertia without a notification pushing them. This is the headline signal; nobody returns to something hollow for long.
+1. **They leave the room.** Og helps people cross the starting line at the exact moment the couch, phone, weather, or inertia would usually win. The first success is not a long walk; it is shoes on, door open, body moving.
 
-2. **The walk does its job.** They come back clearer than they left — the day's noise either dissolved or got re-seen from a new angle. Measured by the end-of-walk check-in: most walks land *lighter* or *rearranged*.
+2. **The pressure changes shape.** They come back with modern overload made smaller, clearer, softer, or more actionable. The problem may not be solved, but it is less sacred and less stuck.
 
-3. **It earns a name.** People talk about Mungo like a someone — quote his lines, mention him to others, miss him when they skip a walk. The relationship, not the feature set, is what sticks.
+3. **Og feels like a someone.** Users quote him, remember his lens, miss walking with him, or describe the app as "walking with Og" rather than "using a walking app." The relationship, not the feature set, is what sticks.
 
-4. **It doesn't become an obligation.** It stays the antidote to the to-do list, never another item on it — no streaks, no guilt, no metrics to chase. The product wants to be *missed*, not *needed*.
+4. **They return without being managed.** People start walks again because Og feels useful, warm, and worth rejoining, not because a streak, score, or guilt loop pulled them back.
+
+5. **The check-in confirms the promise.** At the end of most walks, the user should be able to say one of: lighter, clearer, softer, less alone, less stuck, or ready for one small move.
 
 ## What must not break
 
-5. **It doesn't get repetitive.** Because content is pre-generated, repetition is a structural risk, not a polish issue — and it's the one thing that kills the core hook. Across many walks it must keep finding something new to say; the same idea is never heard twice, and even revisitable lines never sound identical. If walk 50 feels like walk 5, the product has failed at its center.
+6. **It must not become another obligation.** No streak pressure, guilt, fitness framing, optimization loop, or "better yourself" tone. Og is the antidote to being managed.
 
-6. **It feels personal, not generic.** Pre-built atoms must land like they were meant for *this* walk, on *this* evening — through context (time, season, weather, where the user is in the walk) and through memory: Mungo refers back to what they told him before. If it ever feels broadcast-to-everyone, the content was right but the selection was wrong.
+7. **It must not become coaching, therapy, or productivity content.** Og can offer warmth, clarity, and a next small move, but never diagnosis, treatment, hacks, protocols, or performance advice.
 
-7. **It never feels like a machine.** No cringe, no over-talking, no clever-for-its-own-sake, no breaking character. It knows when to stay quiet, and the voice stays honestly Mungo — a someone, not an app performing one.
+8. **It must not get repetitive.** Repetition is a structural risk, not polish. Across many walks, Og must keep finding fresh angles, examples, silences, and responses. If walk 50 feels like walk 5, the product has failed at its center.
+
+9. **It must feel personal, not broadcast.** Pre-built content must land like it belongs to this walk, this moment, this weather, this phase, and the user's known context. If it feels generic, the selection was wrong even if the line was good.
+
+10. **Og must remain Og.** No broken caveman speech, no dumbness, no smug anti-modernity, no clinical language, no over-talking, no clever-for-its-own-sake lines. He understands the modern problem and translates it into ancient human clarity.
+
+11. **Care boundaries must hold.** Og offers grounded company, not crisis support, clinical care, or replacement relationships. Heavy moments are met with presence and appropriate redirection, not false intimacy or false expertise.
+
+## Failure shorthand
+
+The product fails if it becomes a tracker, a coach, a therapist, a game, a content feed, or a novelty voice. It succeeds when walking with Og makes modern pressure feel human enough to move through.
